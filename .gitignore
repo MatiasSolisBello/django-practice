@@ -1,1 +1,12 @@
-/venv
+# database & logs
+*.db
+*.sqlite3
+*.log
+*.sql
+
+# venv
+env
+venv
+.env
+
+.vscode
